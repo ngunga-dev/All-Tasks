@@ -3,13 +3,13 @@ All Tasks é um aplicativo de listar as tarefas do seu dia-a-dia!
 All Tasks é um aplicativo que te permite fazer o controlo das tuas tarefas diárias.
 Você podes adicionar uma tarefa e quando terminar , podes remover da sua lista.
 
-    <div>
+   
       <h1 align="center">All Tasks</h1>
       <br />
       <br />
 
       <h2>1- Ilustação do All Tasks</h2>
-
+ <div>
         <img src="./img1.png" alt="all tasklist" />
 
         <img src="./img2.png" alt="all task inputTasks" />
