@@ -9,18 +9,14 @@ Você podes adicionar uma tarefa e quando terminar , podes remover da sua lista.
       <br />
 
       <h2>1- Ilustação do All Tasks</h2>
-      <a href="http://" target="_blank">
+
         <img src="img1.png" alt="all tasklist" />
-      </a>
-      <a href="http://" target="_blank">
-        <img src="img1.png" alt="all task inputTasks" />
-      </a>
+
+        <img src="img2.png" alt="all task inputTasks" />
     </div>
 
     <div>
-      <a href="http://" target="_blank">
         <video src="./video.mp4" width="640" height="480"></video>
-      </a>
     </div>
 
     <div>
