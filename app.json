@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "todoTask",
-    "slug": "todoTask",
+    "name": "All Tasks",
+    "slug": "all-tasks",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/alltasks.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/alltasks.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -23,10 +23,19 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.ngungadev.alltasks"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
-    }
+      "favicon": "./assets/favicon.png",
+      "barStyle": "black-translucent",
+      "backgroundColor": "#000"
+    },
+    "androidStatusBar": {
+      "barStyle": "light-content",
+      "backgroundColor": "#000"
+    },
+    "description": "All Tasks é um aplicativo que te permite fazer o controlo das tuas tarefas diárias.\nVocê podes adicionar uma tarefa e quando terminar , podes remover da sua lista.",
+    "githubUrl": "https://github.com/ngunga-dev/All-Tasks"
   }
 }
