@@ -10,9 +10,9 @@ Você podes adicionar uma tarefa e quando terminar , podes remover da sua lista.
 
       <h2>1- Ilustação do All Tasks</h2>
 
-        <img src="img1.png" alt="all tasklist" />
+        <img src="./img1.png" alt="all tasklist" />
 
-        <img src="img2.png" alt="all task inputTasks" />
+        <img src="./img2.png" alt="all task inputTasks" />
     </div>
 
     <div>
