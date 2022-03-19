@@ -4,25 +4,25 @@ All Tasks é um aplicativo que te permite fazer o controlo das tuas tarefas diá
 Você podes adicionar uma tarefa e quando terminar , podes remover da sua lista.
 
    
-      <h1 align="center">All Tasks</h1>
-      <br />
-      <br />
+All Tasks
+=========
 
-      <h2>1- Ilustação do All Tasks</h2>
- <div>
-        <img src="./img1.png" alt="all tasklist" />
+1- Ilustração do All Tasks
+--------------------------
 
-        <img src="./img2.png" alt="all task inputTasks" />
-    </div>
+![all tasklist](img1.png)
 
-    <div>
-        <video src="./video.mp4" width="640" height="480"></video>
-    </div>
+2- Ilustração do All Tasks
+--------------------------
 
-    <div>
-      <ul>
-        <li>Javascript</li>
-        <li>React Native</li>
-        <li>Expo</li>
-      </ul>
-    </div>
+![all task inputTasks](img2.png)
+
+Para para conseguires usar o All Tasks tens que instalar o Expo [Expo Android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_US&gl=US)
+
+Link para abrir o All Tasks no Expo
+
+[All Tasks](https://expo.dev/@ngungadev/all-tasks)
+
+*   Javascript
+*   React Native
+*   Expo
